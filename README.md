@@ -7,7 +7,7 @@ Pytorch and Numpy are needed to run the code.
 
      pip install -r requirements.txt
 
-### Data can be obtained from: https://drive.google.com/file/d/1HESUkHrzLNf4Y3Y_-lNsOHaFwMIeKf-n/view?usp=share_link
+### Data can be obtained from [here](https://drive.google.com/file/d/1HESUkHrzLNf4Y3Y_-lNsOHaFwMIeKf-n/view?usp=share_link).
 
 ### Run CORE
 
